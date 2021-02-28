@@ -1,0 +1,46 @@
+.origen{
+	height:500px; 
+	width:1000px;
+	margin-left: 250px;
+	margin-top: 55px;
+	background-color: #040404;
+
+
+}
+
+.origen2{
+	height:500px; 
+	width:1000px;
+	margin-left: 250px;
+	margin-top: 55px;
+	background-color: #D66DE8;
+	border-radius: 30px;
+	font-size: 100px;
+	font-family: Courier New;
+	color: white
+}
+
+.origen3{
+	height:500px; 
+	width:1000px;
+	margin-left: 250px;
+	margin-top: 55px;
+	background-color: #FBF8FB;
+	border-radius: 30px;
+	font-size: 100px;
+	font-family: Courier New;
+	color: white
+}
+
+
+.origen4{
+	height:500px; 
+	width:1000px;
+	margin-left: 250px;
+	margin-top: 55px;
+	background-color: #8E1A8E ;
+	border-radius: 30px;
+		font-size: 100px;
+	font-family: Courier New;
+	color: white
+}
